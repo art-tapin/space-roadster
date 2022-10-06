@@ -45,3 +45,9 @@ Press "X" to use ability to teleport to random spot of the space. And after all 
 **Enjoy!**
 
 04.06.2021 - KNU, FIT, Group PP One Love
+
+
+### Gameplay:
+
+https://user-images.githubusercontent.com/70763601/194186490-09575eca-3ebf-4c3b-9d0d-96f9162f5bc4.mp4
+
